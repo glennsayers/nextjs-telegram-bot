@@ -40,6 +40,10 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
+## Using the bot
+Once your bot is up and running locally, start a new conversation with your bot on Telegram by searching for it using the name you gave it during creation.
+Commands can be issued to the bot by prefixing them with a forward slash (/). For example in this application, you can send the bot a URL using the command `/outline https://github.com/glennsayers/nextjs-telegram-bot`
+
 
 ## License
 
